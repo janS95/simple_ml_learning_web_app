@@ -2,7 +2,8 @@
 
 # Project Overview:
 * Simple Web App using streamlit and sklearn
-* Select dataset (Iris, Breast Cancer, Wine), classifier (KNN, SVM, Decision Tree, Random Forest), feature scaling method, Select parameters of classifiers
+* Select dataset (Iris, Breast Cancer, Wine), classifier (KNN, SVM, Decision Tree, Random Forest), feature scaling method, parameters of classifiers
+* Used PCA for plotting the dataset
 * Try to get the best accuracy!
 
 TODO: 
